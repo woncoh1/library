@@ -4,5 +4,5 @@
 
 ## Website
 - https://bigdata-map.kr/
-- https://www.data.go.kr/index.do
+- https://www.data.go.kr/
 - https://datasciencenotebook.org/
