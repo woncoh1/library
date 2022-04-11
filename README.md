@@ -3,6 +3,7 @@
 - [Notation as a Tool of Thought (Ken Iverson, 1979)](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf)
 
 ## Website
+- [Kenneth Reitz (Python Requests)](https://kennethreitz.org/)
 - https://bigdata-map.kr/
 - https://www.data.go.kr/
 - https://www.cryptomaton.org/
