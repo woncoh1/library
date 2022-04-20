@@ -9,3 +9,4 @@
 - https://bigdata-map.kr/
 - https://www.data.go.kr/
 - http://www.333yyy333.com/
+- https://hada.io/
