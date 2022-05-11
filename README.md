@@ -11,3 +11,5 @@
 - https://www.data.go.kr/
 - http://www.333yyy333.com/
 - https://hada.io/
+- https://www.manning.com/
+- https://pragprog.com/
