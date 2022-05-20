@@ -14,3 +14,6 @@
 - https://hada.io/
 - https://www.manning.com/
 - https://pragprog.com/
+- https://www.reddit.com/r/FinancialCareers/comments/cpjhwn/whats_a_good_site_to_boost_my_financial_modeling/
+- https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/types-of-markets/
+- https://www.google.com/search?newwindow=1&sxsrf=ALiCzsZNvAAGtbQUsEdYSrMgFSouamdUeQ:1653004024890&q=types+of+trading+markets&spell=1&sa=X&ved=2ahUKEwiX2dzt3-z3AhUHZ94KHdulAbUQirwEKAB6BAgBEDE&biw=1920&bih=969&dpr=1
