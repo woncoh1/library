@@ -18,3 +18,4 @@
 - https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/types-of-markets/
 - https://www.google.com/search?newwindow=1&sxsrf=ALiCzsZNvAAGtbQUsEdYSrMgFSouamdUeQ:1653004024890&q=types+of+trading+markets&spell=1&sa=X&ved=2ahUKEwiX2dzt3-z3AhUHZ94KHdulAbUQirwEKAB6BAgBEDE&biw=1920&bih=969&dpr=1
 - https://www.joongang.co.kr/article/2637790#home
+- https://www.reddit.com/r/starwarscanon/comments/ow1k5y/the_complete_star_wars_canon_timeline_august_2021/
