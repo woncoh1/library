@@ -3,7 +3,7 @@
 - [Notation as a Tool of Thought (Ken Iverson, 1979)](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf)
 - [Q4M3 (Jeffry A. Borror, 2015)](https://code.kx.com/q4m3/)
 - [The Genetical Theory of Natural Selection (Ronald Fisher, 1930)](https://en.wikipedia.org/wiki/The_Genetical_Theory_of_Natural_Selection)
-- [The Pattern on the Stone (Danny Hillis, 1998](https://en.wikipedia.org/wiki/The_Pattern_on_the_Stone)
+- [The Pattern on the Stone (Danny Hillis, 1998)](https://en.wikipedia.org/wiki/The_Pattern_on_the_Stone)
 - [Feynman Lectures on Computation (Richard Feynman, 1996)](https://theswissbay.ch/pdf/Gentoomen%20Library/Extra/Richard_P._Feynman-Feynman_Lectures_on_Computation__-Addison-Wesley%281996%29.pdf)
 
 ## Website
