@@ -4,6 +4,7 @@
 - [Q4M3 (Jeffry A. Borror, 2015)](https://code.kx.com/q4m3/)
 - [The Genetical Theory of Natural Selection](https://en.wikipedia.org/wiki/The_Genetical_Theory_of_Natural_Selection)
 - [The Pattern on the Stone](https://en.wikipedia.org/wiki/The_Pattern_on_the_Stone)
+- [Feynman Lectures on Computation](https://theswissbay.ch/pdf/Gentoomen%20Library/Extra/Richard_P._Feynman-Feynman_Lectures_on_Computation__-Addison-Wesley%281996%29.pdf)
 
 ## Website
 - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
