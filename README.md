@@ -8,7 +8,7 @@
 
 ## Website
 - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
-- [Kenneth Reitz (Python Requests)](https://kennethreitz.org/)
+- [Kenneth Reitz (Python)](https://kennethreitz.org/)
 - https://httpbin.org/
 - https://www.cryptomaton.org/
 - https://bigdata-map.kr/
