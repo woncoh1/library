@@ -1,5 +1,5 @@
 # Library
-> Foods for nurturing simplicity, clarity and brevity
+> Food for nurturing simplicity, clarity and brevity
 - [Out of Control (Kevin Kelly, 1992)](https://kk.org/mt-files/outofcontrol/contents.php)
 - [Notation as a Tool of Thought (Ken Iverson, 1979)](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf)
 - [Q4M3 (Jeffry A. Borror, 2015)](https://code.kx.com/q4m3/)
