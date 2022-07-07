@@ -6,6 +6,7 @@
 - [The Genetical Theory of Natural Selection (Ronald Fisher, 1930)](https://en.wikipedia.org/wiki/The_Genetical_Theory_of_Natural_Selection)
 - [The Pattern on the Stone (Danny Hillis, 1998)](https://en.wikipedia.org/wiki/The_Pattern_on_the_Stone)
 - [Feynman Lectures on Computation (Richard Feynman, 1996)](https://theswissbay.ch/pdf/Gentoomen%20Library/Extra/Richard_P._Feynman-Feynman_Lectures_on_Computation__-Addison-Wesley%281996%29.pdf)
+- [The Feynman Lectures on Physics (Richard Feynman, 1963)](https://www.feynmanlectures.caltech.edu/)
 
 ## Website
 - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
