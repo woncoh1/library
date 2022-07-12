@@ -9,9 +9,15 @@
 - [The Feynman Lectures on Physics (Richard Feynman, 1963)](https://www.feynmanlectures.caltech.edu/)
 
 ## Website
-- [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
-- [Kenneth Reitz (Python)](https://kennethreitz.org/)
-- https://httpbin.org/
+- Mathematics
+  - https://www.cut-the-knot.org/
+  - https://jeremykun.com/
+  - https://colah.github.io/
+  - https://minireference.com/
+- Programming
+  - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
+  - [Kenneth Reitz (Python)](https://kennethreitz.org/)
+  - https://httpbin.org/
 - https://www.cryptomaton.org/
 - https://bigdata-map.kr/
 - https://www.data.go.kr/
