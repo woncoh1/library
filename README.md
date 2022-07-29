@@ -19,6 +19,8 @@
   - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
   - [Kenneth Reitz (Python)](https://kennethreitz.org/)
 - Miscellaneous
+  - [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
+  - [Quarto](https://quarto.org/)
   - https://d2l.ai/
   - https://app.diagrams.net/
   - https://biorender.com/
