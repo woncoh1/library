@@ -19,6 +19,9 @@
   - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
   - [Kenneth Reitz (Python)](https://kennethreitz.org/)
 - Miscellaneous
+  - https://d2l.ai/
+  - https://app.diagrams.net/
+  - https://biorender.com/
   - https://httpbin.org/
   - https://www.manning.com/
   - https://pragprog.com/
