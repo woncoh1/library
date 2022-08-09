@@ -37,6 +37,11 @@
   - [Types of Trading Markets: Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALiCzsZNvAAGtbQUsEdYSrMgFSouamdUeQ:1653004024890&q=types+of+trading+markets&spell=1&sa=X&ved=2ahUKEwiX2dzt3-z3AhUHZ94KHdulAbUQirwEKAB6BAgBEDE&biw=1920&bih=969&dpr=1)
   - [No Such Thing as 漢族](https://www.joongang.co.kr/article/2637790#home)
   - [Star Wars Canon](https://www.reddit.com/r/starwarscanon/comments/ow1k5y/the_complete_star_wars_canon_timeline_august_2021/)
+  - 훈민정음
+    - 풀어쓰기
+      - https://dvdprime.com/g2/bbs/board.php?bo_table=comm&wr_id=22936997
+      - https://namu.wiki/w/%ED%92%80%EC%96%B4%EC%93%B0%EA%B8%B0
+    - 사라진 4 글자
 
 ## MOOC
 - https://www.coursera.org/learn/complex-analysis
