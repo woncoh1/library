@@ -16,6 +16,7 @@
   - https://colah.github.io/
   - https://intellectualmathematics.com/
   - https://minireference.com/
+  - https://www.mathsisfun.com/
 - Programming
   - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
   - [Kenneth Reitz (Python)](https://kennethreitz.org/)
