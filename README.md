@@ -17,6 +17,7 @@
   - https://intellectualmathematics.com/
   - https://minireference.com/
   - https://www.mathsisfun.com/
+  - https://tutorial.math.lamar.edu/
 - Programming
   - [Paul Graham (Lisp)](http://www.paulgraham.com/articles.html)
   - [Kenneth Reitz (Python)](https://kennethreitz.org/)
