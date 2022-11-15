@@ -9,6 +9,7 @@
 - [The Feynman Lectures on Physics (Richard Feynman, 1963)](https://www.feynmanlectures.caltech.edu/)
 - [TAOCP (Donald E. Knuth)](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
 - [Princeton Lectures on Analysis](https://en.wikipedia.org/wiki/Princeton_Lectures_in_Analysis)
+- [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 
 ## Website
 - Mathematics
