@@ -49,6 +49,7 @@
       - https://namu.wiki/w/%ED%92%80%EC%96%B4%EC%93%B0%EA%B8%B0
       - https://ko.wikipedia.org/wiki/%ED%92%80%EC%96%B4%EC%93%B0%EA%B8%B0
     - 사라진 4 글자
+  - [French math dictionary](https://www-users.cse.umn.edu/~kwlan/documents/french-glossary.pdf)
 
 ## MOOC
 - https://www.coursera.org/learn/complex-analysis
