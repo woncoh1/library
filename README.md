@@ -28,6 +28,7 @@
   - [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
   - [Quarto](https://quarto.org/)
   - https://d2l.ai/
+  - https://mlr3.mlr-org.com/
   - https://app.diagrams.net/
   - https://biorender.com/
   - https://httpbin.org/
