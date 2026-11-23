@@ -1,5 +1,6 @@
 # Library
 > Food for nurturing simplicity, clarity and brevity
+
 - [Out of Control (Kevin Kelly, 1992)](https://kk.org/mt-files/outofcontrol/contents.php)
 - [Notation as a Tool of Thought (Ken Iverson, 1979)](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf)
 - [Q4M3 (Jeffry A. Borror, 2015)](https://code.kx.com/q4m3/)
@@ -13,6 +14,7 @@
 - [The Composable Codex (Voltron Data)](https://the-composable-codex.netlify.app/)
 
 ## Website
+
 - Mathematics
   - https://www.cut-the-knot.org/
   - https://jeremykun.com/
@@ -51,7 +53,35 @@
   - [French math dictionary](https://www-users.cse.umn.edu/~kwlan/documents/french-glossary.pdf)
 
 ## MOOC
+
 - https://www.coursera.org/learn/complex-analysis
 - https://www.coursera.org/learn/programming-languages
 - https://www.coursera.org/specializations/probabilistic-graphical-models
 - https://www.edx.org/xseries/mitx-circuits-and-electronics
+
+## Web 3
+
+- https://defi-learning.org/f22
+- https://zk-learning.org/
+- https://ethernaut.openzeppelin.com/
+- https://smartcontractprogrammer.com/
+- https://learn.vyperlang.org/
+
+### Ethereum
+
+- [Guide (2022)](https://betterprogramming.pub/top-10-smart-contract-developer-tools-you-need-for-2022-b763f5df689a)
+- [web3.py](https://web3py.readthedocs.io/en/stable/)
+- [Remix](https://remix.ethereum.org/)
+- [Tools](https://github.com/ConsenSys/ethereum-developer-tools-list)
+
+### Resources
+
+- [Token Contracts](https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5)
+- [Token Standards](https://crypto.com/university/what-are-token-standards)
+
+### Misc
+
+- NFT
+- Metaverse
+- DeFi
+- DAO
