@@ -12,6 +12,7 @@
 - [Princeton Lectures on Analysis](https://en.wikipedia.org/wiki/Princeton_Lectures_in_Analysis)
 - [Mathematics and Computation](https://www.math.ias.edu/avi/book)
 - [The Composable Codex (Voltron Data)](https://the-composable-codex.netlify.app/)
+- [Book of Models (Models Demystified)](https://m-clark.github.io/book-of-models/)
 
 ## Website
 
